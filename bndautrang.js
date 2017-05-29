@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://topcom.vn' target='_blank'><img src='http://www.topcom.com.vn/data/upload/Vespa_Home-Banner_Uu-Dai-Phu-Kien_revise.jpg' width='500px'/><br/>mua xe vespa</a>. Liên hệ 0988567167. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://https://www.facebook.com/PiaggioVespaTopcomtragop/' target='_blank'><img src='http://www.topcom.com.vn/data/upload/Vespa_Home-Banner_Uu-Dai-Phu-Kien_revise.jpg' width='500px'/><br/>mua xe vespa</a>. Liên hệ 0988567167. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
